@@ -1,6 +1,6 @@
 <!-- Updated: Compact grid layout with 4x3 format, consistent sizing and proper image scaling -->
 
-# 🔮 hey
+# 🔮
 
 <div align="center">
   <a href="https://color-space-visualizer.pages.dev/"><img src="./img/color-space.gif" style="width: 180px; height: 120px; object-fit: cover;" alt="Color Space Visualizer" /></a>
@@ -12,7 +12,7 @@
 <div align="center">
   <a href="https://busisen.itch.io/overloaded"><img src="./img/overloaded.gif" style="width: 180px; height: 120px; object-fit: cover;" alt="OVERLOADED!" /></a>
   <a href="https://youtube.com/@surrealworld"><img src="./img/surreal2.gif" style="width: 180px; height: 120px; object-fit: cover;" alt="Surreal Entertainment" /></a>
-  <a href="https://www.map.rebase.energy"><img src="./img/rebase.gif" style="width: 180px; height: 120px; object-fit: cover;" alt="Rebase Energy" /></a>
+  <a href="https://map.rebase.energy"><img src="./img/rebase.gif" style="width: 180px; height: 120px; object-fit: cover;" alt="Rebase Energy" /></a>
   <a href="https://youtube.com/@surrealentertainment"><img src="./img/surreal-site.gif" style="width: 180px; height: 120px; object-fit: cover;" alt="Surreal Entertainment" /></a>
 </div>
 
