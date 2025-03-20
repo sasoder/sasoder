@@ -13,7 +13,7 @@
   <a href="https://busisen.itch.io/overloaded"><img src="./img/overloaded.gif" style="width: 180px; height: 120px; object-fit: cover; border-radius: 2px; box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);" alt="OVERLOADED!" /></a>
   <a href="https://youtube.com/@surrealworld"><img src="./img/surreal2.gif" style="width: 180px; height: 120px; object-fit: cover; border-radius: 2px; box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);" alt="Surreal Entertainment" /></a>
   <a href="https://www.map.rebase.energy"><img src="./img/rebase.gif" style="width: 180px; height: 120px; object-fit: cover; border-radius: 2px; box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);" alt="Rebase Energy" /></a>
-  <a href="https://youtube.com/@surrealentertainment"><img src="./img/surreal-site.gif" style="width: 180px; height: 120px; object-fit: cover; border-radius: 2px; box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);" alt="Surreal Entertainment" /></a>
+  <a href="https://surreal.media"><img src="./img/surreal-site.gif" style="width: 180px; height: 120px; object-fit: cover; border-radius: 2px; box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.1);" alt="Surreal Entertainment" /></a>
 </div>
 
 <div align="center">
