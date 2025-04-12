@@ -18,7 +18,7 @@
 
 <div align="center">
   <a href="https://youtu.be/Ibm3WhfLk08?si=qGW3ikHArLgOpPzI"><img src="./img/mark.gif" style="width: 180px; height: 120px; object-fit: cover; border-radius: 2px;" alt="Surreal Entertainment" /></a>
-  <a href="https://youtu.be/FGiumkfrOVs?si=2xC1xSb972klWfSN"><img src="./img/surreal3.gif" style="width: 180px; height: 120px; object-fit: cover; border-radius: 2px;" alt="Surreal Entertainment" /></a>
+  <a href="https://github.com/sasoder/crabs-in-a-bucket"><img src="./img/crabs.gif" style="width: 180px; height: 120px; border-radius: 2px;" alt="Surreal Entertainment" /></a>
   <a href="https://youtu.be/WY1McjYvmww?si=P46VvXHXZ9RZUW6w"><img src="./img/surreal4.gif" style="width: 180px; height: 120px; object-fit: cover; border-radius: 2px;" alt="Surreal Entertainment" /></a>
   <a href="https://busisen.itch.io/dont-get-summoned"><img src="./img/dont-get-summoned.gif" style="width: 180px; height: 120px; object-fit: cover; border-radius: 2px;" alt="Don't Get Summoned" /></a>
 </div>
