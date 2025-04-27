@@ -3,7 +3,7 @@
 # 🔮
 
 <div align="center">
-  <a href="https://www.chessagainsthumanity.com"><img src="./img/chessagainsthumanity.gif" style="width: 180px; height: 120px; object-fit: cover; border-radius: 2px;" alt="Chess Against Humanity" /></a>
+  <a href="https://chessagainsthumanity.com"><img src="./img/chessagainsthumanity.gif" style="width: 180px; height: 120px; object-fit: cover; border-radius: 2px;" alt="Chess Against Humanity" /></a>
   <a href="https://youtu.be/z6uiLSqmuHY?si=3lfm7_YQUZgpXOqU"><img src="./img/surreal1.gif" style="width: 180px; height: 120px; object-fit: cover; border-radius: 2px;" alt="Surreal Entertainment" /></a>
   <a href="https://color-space-visualizer.pages.dev/"><img src="./img/color-space.gif" style="width: 180px; height: 120px; object-fit: cover; border-radius: 2px;" alt="Color Space Visualizer" /></a>
   <a href="https://github.com/sasoder/content-killer"><img src="./img/content-killer.png" style="width: 180px; height: 120px; object-fit: cover; border-radius: 2px;" alt="Content Killer" /></a>
